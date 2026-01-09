@@ -119,28 +119,17 @@ See GitHub documentation on\
 request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ------------------------------------------------------------------------
-
 ## 🤝 By
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<a href="https://github.com/renanzitoo">`{=html}
-`<img src="https://avatars.githubusercontent.com/u/91814882?v=4" width="100px;"/>`{=html}`<br>`{=html}
-`<sub>`{=html} `<b>`{=html}Renan Costa`</b>`{=html} `</sub>`{=html}
-`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td align="center">
+      <a href="https://github.com/renanzitoo">
+        <img src="https://avatars.githubusercontent.com/u/91814882?v=4" width="100px;"/><br>
+        <sub>
+          <b>Renan Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
-```
